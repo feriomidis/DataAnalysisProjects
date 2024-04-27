@@ -1,5 +1,6 @@
-# DataAnalysisProjects
-Data Analysis projects completed in different languages such as SQL and python. Visualizations available in Tableau Public. Overall the summary of the objectives of the projects is the following:
+# Data Analysis Projects (SQL)
+Data Analysis projects completed in SQL. Overall the summary of the objectives of the projects is the following:
+
 **SQL Querying:** Ability to write SQL queries to retrieve data from a relational database.
 
 **Data Analysis:** Capability to analyze data and derive insights based on given requirements.
